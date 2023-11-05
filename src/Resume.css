@@ -1,0 +1,51 @@
+.fullresume{
+  display: flex;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgb(210, 226, 214);
+  color: rgb(227, 109, 25);
+  line-height: 7mm;  
+}
+.leftside{ 
+   margin-left: 0.5%;
+   background-color: rgb(21, 25, 25);
+   width: 30%;
+   align-items: center;
+    }
+  .profile{
+    text-shadow: 10mm;
+    margin-left: 3%;
+    
+  }
+  .photo{
+    display: flex;
+    margin-left: 34%;
+    margin-bottom: 1cm;
+    border-radius: 5%;
+  }
+  .skills{
+    margin-left: 3%;
+  }
+  .awards{
+    margin-left: 3%;
+    line-height: normal;
+  }
+
+
+  .tcolor{
+     color: azure;   
+  }
+  .rcolor{
+    color: black;
+  }
+ 
+     .contact_details{
+        line-height: .1;
+        margin-left: 3%;
+     }
+     .rightside{
+       width: 60%;
+       text-align: justify;
+       margin-left: 2%;
+      line-height: 7mm;
+     }
+    

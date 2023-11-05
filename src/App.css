@@ -6,6 +6,12 @@
   height: 40vmin;
   pointer-events: none;
 }
+.photo{
+  size:10%;
+  height: 4cm;
+  width: 4cm;
+  border-radius: 25;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
