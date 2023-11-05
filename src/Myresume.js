@@ -10,7 +10,7 @@ class Myresume extends React.Component{
                         <h2>HARI KRISHNA M</h2>
                     </div>
                     <div className="photo">
-                    <img src={myphoto} alt="photo"/>
+                    <img src={myphoto} alt=""/>
                     </div>
                     <div className="contact_details">
                     <h2>CONTACT</h2>
